@@ -16,10 +16,12 @@ With respect to developer’s responsibility for your use of the app, when you�
 
 At some point, we may wish to update the app. The app is currently available on – the requirements for system(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Developer does not promise that it will always update the app so that it is relevant to you and/or works with the version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
+Offensive Messages: You may not use this App to post content that could be treated as offensive. If you encounter user generated content that you feel is offensive, please feel free to use the 'Contact' section of the app to reach developer and describe the issue. Your message will be reviewed and further actions will be taken asap.
+
 **Changes to This Terms and Conditions**
 
 We may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms and Conditions on this page. These changes are effective immediately after they are posted on this page.
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us via the 'Contact' section.
